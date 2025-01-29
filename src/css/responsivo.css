@@ -1,7 +1,7 @@
-@media(max-wigth: 768px) {
+@media(max-width: 768px) {
     body {
         background-position: center;
-        padding:  0 15px;
+        padding: 0 15px;
    }
 
    .slider {
@@ -9,7 +9,7 @@
    }
 }
 
-@media(max-widgth: 496px) {
+@media(max-width: 496px) {
     .lista-personagens {
         width: 250px;
     }
@@ -32,7 +32,7 @@
     }
 
     #btn-voltar {
-        left: 20px;
+        left: 20%;
     }
 }
 
